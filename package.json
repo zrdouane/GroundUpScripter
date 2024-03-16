@@ -1,0 +1,26 @@
+{
+  "name": "groundupscripter",
+  "version": "1.0.0",
+  "description": "GroundUpScripter is a vibrant and hands-on programming platform with node.js and express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon entry.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrdouane/GroundUpScripter.git"
+  },
+  "author": "zrdouane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zrdouane/GroundUpScripter/issues"
+  },
+  "homepage": "https://github.com/zrdouane/GroundUpScripter#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2",
+    "npm": "^10.5.0"
+  }
+}
